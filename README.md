@@ -105,7 +105,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Next.js Setup Tutorial](https://www.youtube.com/watch?v=ZVnjOPwW4ZA&t=114s)
   2. Design the navigation bar and signup/login pages.
      - **Reading:** [Tailwind CSS Navbar](https://tailwindui.com/components/application-ui/navigation/navbars)
-     - **Video:** [Navbar Design with Tailwind CSS](https://www.youtube.com/watch?v=_ZTT9kw3PIE)
+     - **Video:** [Navbar Design with Tailwind CSS](https://www.youtube.com/watch?v=_9mTJ84uL1Q&t=2538s)
 
 - **Deliverables:**  
   - Basic project setup with navigation and responsive layout.
@@ -132,10 +132,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Build a hero section with a search bar for jobs.
      - **Reading:** [Hero Section in Tailwind CSS](https://tailwindui.com/components/marketing/sections/hero-sections)
-     - **Video:** [Building Hero Sections](https://www.youtube.com/watch?v=Ly-9VTXJlnA)
+     - **Video:** [Building Hero Sections](https://www.youtube.com/watch?v=omALIaLnidM)
   2. Create a dynamic jobs page to fetch and display job listings.
-     - **Reading:** [Fetching Data in Next.js](https://nextjs.org/docs/basic-features/data-fetching)  
-     - **Video:** [Next.js Data Fetching](https://www.youtube.com/watch?v=0ruM3X1lAfI)
+     - **Reading:** [Fetching Data in Next.js](https://nextjs.org/docs/pages/building-your-application/data-fetching)  
+     - **Video:** [Next.js Data Fetching](https://www.youtube.com/watch?v=jWi8d3SJYN0)
 
 - **Deliverables:**  
   - Dynamic jobs page with a functional hero section.
@@ -147,11 +147,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Build dynamic job detail pages.
      - **Reading:** [Dynamic Routes in Next.js](https://nextjs.org/docs/routing/dynamic-routes)  
-     - **Video:** [Dynamic Pages in Next.js](https://www.youtube.com/watch?v=BiHYehk0tYo)
+     - **Video:** [Dynamic Pages in Next.js](https://www.youtube.com/watch?v=gSSsZReIFRk)
   2. Implement a category filter for job listings.
-     - **Reading:** [Filtering Data in React](https://react.dev/learn/managing-state)  
-     - **Video:** [React Filtering Tutorial](https://www.youtube.com/watch?v=35lXWvCuM8o)
-
+     - **Reading:** [Filtering Data in Next](https://medium.com/@ryanmambou/search-filter-in-nextjs-b30381c96f06)  
+     - **Video:** [Next Filtering Tutorial](https://www.youtube.com/watch?v=gMx1LUAA-xE)
 - **Deliverables:**  
   - Job detail pages and category filter.
 
@@ -161,8 +160,8 @@ This project is structured to ensure a systematic and incremental development pr
 - **Goal:** Finalize the admin dashboard and deploy the app.
 - **Tasks:**
   1. Build an admin dashboard for managing job listings.
-     - **Reading:** [React Dashboards](https://reactjs.org/docs/thinking-in-react.html)  
-     - **Video:** [React Admin Dashboard Tutorial](https://www.youtube.com/watch?v=bDNy1pF0jqA)
+     - **Reading:** [Next Dashboards](https://nextjs.org/learn/dashboard-app)  
+     - **Video:** [Next Admin Dashboard Tutorial](https://www.youtube.com/watch?v=cBg6xA5C60s)
   2. Deploy the application on Vercel.
      - **Reading:** [Deploying Next.js Apps](https://vercel.com/docs)  
      - **Video:** [Vercel Deployment Guide](https://www.youtube.com/watch?v=2HBIzEx6IZA)
